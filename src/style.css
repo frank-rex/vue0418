@@ -13,6 +13,11 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+body {
+  background-image: url('/Users/xavier/Library/CloudStorage/OneDrive-淡江大學/企劃競賽/資管畢業專題/程式/vue-0418/src/assets/back.png');
+  background-size: cover;
+  background-position: center;
+}
 
 a {
   font-weight: 500;
